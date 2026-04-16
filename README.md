@@ -20,8 +20,6 @@ yf-data-collector/
 │   ├── transform.py
 │   └── export.py
 └── data/
-    ├── raw/
-    └── processed/
 ```
 
 ## Setup
