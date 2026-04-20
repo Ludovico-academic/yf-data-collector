@@ -12,14 +12,15 @@ The project is designed for teaching purposes and shows a simple structured work
 
 ```text
 yf-data-collector/
-├── main.py
-├── requirements.txt
+├── data/
 ├── src/
 │   ├── __init__.py
 │   ├── collect.py
 │   ├── transform.py
 │   └── export.py
-└── data/
+├── main.py
+├── README.md
+└── requirements.txt
 ```
 
 ## Setup
