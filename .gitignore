@@ -1,0 +1,28 @@
+# Virtual env
+.venv/
+venv/
+
+# Data output
+data/
+
+# Python clutter
+__pycache__/
+*.pyc
+*.pyo
+.eggs/
+*.egg-info/
+
+# Jupyter clutter
+.ipynb_checkpoints/
+
+# OS clutter
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Env files
+.env
+*.env
