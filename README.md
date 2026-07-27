@@ -1,3 +1,7 @@
+> **Moved.** This repository now lives at [ludovico-luce/yf-data-collector](https://github.com/ludovico-luce/yf-data-collector). This copy is no longer maintained.
+
+___
+
 # yf-data-collector
 
 A set of Jupyter notebooks for downloading financial data from Yahoo Finance.
